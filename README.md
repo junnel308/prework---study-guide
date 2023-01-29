@@ -8,6 +8,10 @@ This prework assignment contains information about what we are going to learn in
 
 This webpage has information about the materials we gonna learn in class and it is a study guide that can be useful when starting class.
 
+## Webpage Link
+
+https://junnel308.github.io/prework---study-guide/
+
 ## Screenshot
 
 <img src="./Assets/page.png" />
