@@ -18,7 +18,7 @@ https://junnel308.github.io/prework---study-guide/
 
 ## Credits
 
-Junnel R. Padilla, Bootcamp Modules, Stackoverflow
+Junnel R. Padilla, Bootcamp Modules, Stackoverflow, ChatGPT
 
 ## License
 
